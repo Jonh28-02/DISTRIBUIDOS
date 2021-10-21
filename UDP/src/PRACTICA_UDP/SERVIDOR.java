@@ -5,13 +5,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package udp;
+package PRACTICA_UDP;
 import java.net.*;
 /**
  *
  * @author inspiron
  */
-public class UDPServer {
+public class SERVIDOR {
     public static void main(String args[]) throws Exception{
         DatagramSocket serverSocket=new DatagramSocket(9876);
         
