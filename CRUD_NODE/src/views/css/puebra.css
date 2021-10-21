@@ -1,0 +1,135 @@
+
+.bg-color{
+    width: 100%;
+    height: 80%;
+    background-image: linear-gradient(to right, rgba(107, 17, 203, 0.801) 0%, rgba(37, 116, 252, 0.808) 100%), url("th_e9dc924f238fa6cc29465942875fe8f0_salud.png");
+    
+    position: absolute;
+    top: 50px;
+
+}
+.wave{
+    position: absolute;
+    background-position: bottom;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 150px;
+    top: 550px;
+}
+.content{
+    background: rgb(255, 255, 255);
+    top: 700px;
+    height: 600px;
+    width: 100%;
+    position: absolute;
+}
+.title-1{
+    position: absolute;
+    text-align: center;
+    padding-left: 200px;
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 42px;
+    color: #ffffff;
+}
+.text-title{
+    position: absolute;
+    text-align: center;
+    left: 100px;
+   
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 30px;
+    color: #ffffff;
+}
+.sesion-1{
+    border-style: solid;
+    border-color: #4622aa;
+    color: #ffffff;
+    padding: 10px 30px;
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+    position: absolute;
+    left: 150px;
+    border-radius: 10px;
+
+}
+.sesion-1:hover{
+    background: rgba(107, 17, 203, 0.801);
+    color: black;
+}
+.registro-1:hover{
+    background: rgba(107, 17, 203, 0.801);
+    color: black;
+}
+.registro-1{
+    border-style: solid;
+    border-color: #4622aa;
+    color: #ffffff;
+    padding: 10px 30px;
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+    position: absolute;
+    left: 480px;
+    border-radius: 10px;
+
+}
+.gift-1{
+    position: absolute;
+    
+    height: 350px;
+    width: 20%;
+    right: 200px;
+}
+img{
+    height: 350px;
+    width: 350px;
+    max-height: 750px;
+    max-width: 400px;
+}
+.tarjeta-1{
+
+    background: rgb(19, 68, 143);
+    top: 65px;
+    left: 110px;
+    height: 500px;
+    width: 26%;
+    position: absolute;
+
+}
+.tarjeta-1:hover{
+    background: linear-gradient(to right, rgba(107, 17, 203, 0.801) 0%, rgba(37, 116, 252, 0.808) 100%);
+}
+.tarjeta-2{
+
+    background: rgb(19, 68, 143);
+    top: 65px;
+    left: 560px;
+    height: 500px;
+    width: 26%;
+    position: absolute;
+
+}
+.tarjeta-2:hover{
+    background: linear-gradient(to right, rgba(107, 17, 203, 0.801) 0%, rgba(37, 116, 252, 0.808) 100%);
+}
+.tarjeta-3{
+
+    background: rgb(19, 68, 143);
+    top: 65px;
+    left: 1010px;
+    height: 500px;
+    width: 26%;
+    position: absolute;
+
+}
+.tarjeta-3:hover{
+    background: linear-gradient(to right, rgba(107, 17, 203, 0.801) 0%, rgba(37, 116, 252, 0.808) 100%);
+}
