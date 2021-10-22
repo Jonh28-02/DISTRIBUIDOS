@@ -10,7 +10,7 @@ public class CLIENTE {
     public static void main(String[] args) throws Exception{
         
         while(true){
-            System.out.println("Ingrese 'NO' para cerrar sesión o escriba 'SI' para mandar mesnajes");
+            System.out.println("SI DESEA REALIZAR UN MENSAJE DIGA SI EN CASO DE QUE INGRESE NO");
             BufferedReader opcion = new BufferedReader(new InputStreamReader(System.in));
             String opcion_entrada= opcion.readLine();
             if(opcion_entrada.equals("NO")){
